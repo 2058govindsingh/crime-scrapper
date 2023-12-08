@@ -14,7 +14,7 @@ You can install the required dependencies by running the following command:
 pip install requests beautifulsoup4
 ```
 
-## How to Use
+## How to Use 
 
 1. Run the Python script `crime_data_scraper.py`.
 2. Enter the location and state when prompted.
