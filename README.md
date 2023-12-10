@@ -4,7 +4,7 @@ This Python script scrapes crime data from NDTV news articles for a given locati
 
 ## Dependencies
 
-- `Python 3`
+- `Python 3` 
 - `requests`
 - `beautifulsoup4`
 
